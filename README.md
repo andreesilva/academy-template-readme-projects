@@ -241,7 +241,7 @@ Um praise para os cúbicos que contribuíram neste projeto 👏
 
 ## 🧙‍♂️ Autor
 
-<a href="https://www.figma.com/@caiux">
+<a href="https://avatars.githubusercontent.com/u/47976648?s=400&u=0d11578ca2d3a07826c0a05bdafd9e3f5b01ab3a&v=4">
  <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQEDfulqSVXZqw/profile-displayphoto-shrink_200_200/0/1674667231041?e=1688601600&v=beta&t=C-f9fp3xJDwXm1u4c6eMwpWfVIyW0eCTDAKGIyNdRJA" width="100px;" alt=""/>
  <br />
  <sub><b>Caio Lopes</b></sub></a> <a href="https://www.figma.com/@caiux" title="Cubos Academy">✨</a>
